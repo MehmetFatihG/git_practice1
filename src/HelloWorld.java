@@ -6,4 +6,8 @@ public class HelloWorld {
 
      //Doing awesome work 3 !
      // it is ready to be pushed
+     public static void main(String[] args) {
+         System.out.println("Hello world");
+     }
+
 }
